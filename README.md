@@ -1,4 +1,4 @@
-# Oasis Infobyte Internship: Data Science Tasks
+# Oasis Infobyte Internship: Data analytics Tasks
 
 This repository contains the tasks completed during the Oasis Infobyte Internship, which include **Exploratory Data Analysis (EDA)** on retail sales data, **Customer Segmentation Analysis**, and **Data Cleaning**.
 
